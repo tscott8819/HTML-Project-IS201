@@ -1,0 +1,49 @@
+body{
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(122, 122, 122);
+}
+
+a{
+    color: blue;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white
+}
+
+h3{
+    color: white;
+    font-size: small;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+h4{
+    color: white;
+
+}
+
+.imagecontainer1{
+    float: right;
+    width: 50%;
+    margin: 5px;
+}
+.imagecontainer2{
+    float: left;
+    margin: 5px;
+}
+/* .top{
+position: absolute;
+bottom: 10px;
+} */
